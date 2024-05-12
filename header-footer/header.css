@@ -1,19 +1,13 @@
 header {
-	background: blueviolet;
-	display: flex;
-	justify-content: center;
-	align-content: center;
+
 }
 
 nav {
-	background: whitesmoke;
-	max-width: 1000px;
-	margin: auto;
+
 }
 
 .flex-jc-sp {
-	display: flex;
-	justify-content: space-between;
+
 }
 
 .flex-jc-sa {
